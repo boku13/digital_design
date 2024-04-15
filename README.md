@@ -1,1 +1,3 @@
-"# Digital Design Labs" 
+# Digital Design Course Labs (+ Reports)
+
+----
