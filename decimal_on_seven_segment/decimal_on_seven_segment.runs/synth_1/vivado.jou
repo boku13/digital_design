@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Feb 14 14:24:11 2024
+# Process ID: 19704
+# Current directory: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/decimal_on_seven_segment/decimal_on_seven_segment.runs/synth_1
+# Command line: vivado.exe -log adder_on_seven_seg.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source adder_on_seven_seg.tcl
+# Log file: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/decimal_on_seven_segment/decimal_on_seven_segment.runs/synth_1/adder_on_seven_seg.vds
+# Journal file: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/decimal_on_seven_segment/decimal_on_seven_segment.runs/synth_1\vivado.jou
+# Running On: LAPTOP-59TOG2H2, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14877 MB
+#-----------------------------------------------------------
+source adder_on_seven_seg.tcl -notrace

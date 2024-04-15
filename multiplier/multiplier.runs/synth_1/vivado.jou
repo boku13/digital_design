@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Mar 13 14:58:45 2024
+# Process ID: 3856
+# Current directory: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/multiplier/multiplier.runs/synth_1
+# Command line: vivado.exe -log two_bit_multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source two_bit_multiplier.tcl
+# Log file: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/multiplier/multiplier.runs/synth_1/two_bit_multiplier.vds
+# Journal file: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/multiplier/multiplier.runs/synth_1\vivado.jou
+# Running On: LAPTOP-59TOG2H2, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14877 MB
+#-----------------------------------------------------------
+source two_bit_multiplier.tcl -notrace

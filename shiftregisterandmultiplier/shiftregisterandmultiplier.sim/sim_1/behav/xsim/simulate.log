@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time:              1000000, Input: 0011
+Shifted *2 (nstar2_extended): xxxxxx
+Shifted *4 (nstar4_extended): xxxxxx
+7-bit Sum: xxxxxxx
+Reset activated at time:              1020000
+All outputs and intermediates are reset to zero or default states.

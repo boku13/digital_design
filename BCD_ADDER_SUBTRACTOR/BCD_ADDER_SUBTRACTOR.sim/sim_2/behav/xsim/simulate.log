@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+A=1001, B=0110, Subtraction?: 1, C_out_Sign: 0, Output value:  3
+A=0011, B=0111, Subtraction?: 1, C_out_Sign: 1, Output value: 20
+A=1000, B=0001, Subtraction?: 0, C_out_Sign: 0, Output value:  9
+A=1001, B=0110, Subtraction?: 0, C_out_Sign: 1, Output value: 21
+A=0011, B=0100, Subtraction?: 1, C_out_Sign: 1, Output value: 17
+A=0001, B=1000, Subtraction?: 1, C_out_Sign: 1, Output value: 23
+A=0010, B=0010, Subtraction?: 0, C_out_Sign: 0, Output value:  4
+A=0101, B=1000, Subtraction?: 0, C_out_Sign: 1, Output value: 19
+$finish called at time : 200 ns : File "C:/Users/SQREAM/Desktop/sem4/DigitalDesign/BCD_ADDER_SUBTRACTOR/BCD_ADDER_SUBTRACTOR.srcs/sim_2/new/bcd_adder_subtractor_testbench.v" Line 152

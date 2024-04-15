@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SQREAM/Desktop/sem4/DigitalDesign/BCD_ADDER_SUBTRACTOR/BCD_ADDER_SUBTRACTOR.srcs/sim_2/new/bcd_adder_subtractor_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_add_sub
+WARNING: [VRFC 10-3248] data object 'out' is already declared [C:/Users/SQREAM/Desktop/sem4/DigitalDesign/BCD_ADDER_SUBTRACTOR/BCD_ADDER_SUBTRACTOR.srcs/sim_2/new/bcd_adder_subtractor_testbench.v:128]
+WARNING: [VRFC 10-9364] second declaration of 'out' is ignored [C:/Users/SQREAM/Desktop/sem4/DigitalDesign/BCD_ADDER_SUBTRACTOR/BCD_ADDER_SUBTRACTOR.srcs/sim_2/new/bcd_adder_subtractor_testbench.v:128]

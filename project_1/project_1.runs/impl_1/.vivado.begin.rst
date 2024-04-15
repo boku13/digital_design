@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="SQREAM" Host="LAPTOP-59TOG2H2" Pid="16376" HostCore="16" HostMemory="014877257728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="SQREAM" Host="LAPTOP-59TOG2H2" Pid="26248" HostCore="16" HostMemory="014877257728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="SQREAM" Host="LAPTOP-59TOG2H2" Pid="28228" HostCore="16" HostMemory="014877257728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="SQREAM" Host="LAPTOP-59TOG2H2" Pid="26876" HostCore="16" HostMemory="014877257728">
+    </Process>
+</ProcessHandle>
