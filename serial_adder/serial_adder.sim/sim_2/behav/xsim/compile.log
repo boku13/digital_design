@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SQREAM/Desktop/sem4/DigitalDesign/serial_adder/serial_adder.srcs/sources_1/new/serialadder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serialadder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SQREAM/Desktop/sem4/DigitalDesign/serial_adder/serial_adder.srcs/sim_2/new/serialadder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_serialadder

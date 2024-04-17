@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Apr 17 15:02:03 2024
+# Process ID: 11772
+# Current directory: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/serial_adder/serial_adder.runs/impl_1
+# Command line: vivado.exe -log serialadder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source serialadder.tcl -notrace
+# Log file: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/serial_adder/serial_adder.runs/impl_1/serialadder.vdi
+# Journal file: C:/Users/SQREAM/Desktop/sem4/DigitalDesign/serial_adder/serial_adder.runs/impl_1\vivado.jou
+# Running On: LAPTOP-59TOG2H2, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14877 MB
+#-----------------------------------------------------------
+source serialadder.tcl -notrace
